@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.exe
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.deps.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\ref\Exercicios.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\ref\Exercicios.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.genruntimeconfig.cache
