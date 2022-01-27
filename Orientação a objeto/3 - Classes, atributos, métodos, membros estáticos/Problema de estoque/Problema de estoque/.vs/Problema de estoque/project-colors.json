@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77e1d0ff-3924-4d23-895a-3dbd5863360c": {
+      "ProjectGuid": "77e1d0ff-3924-4d23-895a-3dbd5863360c",
+      "DisplayName": "Problema de estoque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
