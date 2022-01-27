@@ -1,0 +1,15 @@
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\Aluno.exe
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\Aluno.deps.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\Aluno.runtimeconfig.json
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\Aluno.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\ref\Aluno.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\bin\Debug\net6.0\Aluno.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.csproj.AssemblyReference.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfoInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.AssemblyInfo.cs
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\ref\Aluno.dll
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.pdb
+D:\Users\Lucas\Desktop\Curso C#\Orientação a objeto\3 - Classes, atributos, métodos, membros estáticos\Triangulo ex\Exercicios\Aluno\Aluno\obj\Debug\net6.0\Aluno.genruntimeconfig.cache

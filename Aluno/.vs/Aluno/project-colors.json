@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43a4321a-b782-4378-84b6-cc28a809ce5b": {
+      "ProjectGuid": "43a4321a-b782-4378-84b6-cc28a809ce5b",
+      "DisplayName": "Aluno",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
